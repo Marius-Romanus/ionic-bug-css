@@ -1,0 +1,7 @@
+{
+  "name": "bug-css",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
